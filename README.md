@@ -1,0 +1,2 @@
+# ImagrHosting
+jsDelivr CDN
